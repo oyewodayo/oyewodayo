@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **oyewodayo/oyewodayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,4 +12,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about Database design, complex business logic, PHP/Laravel, JavaScript, Flutter...
 - 📫 How to reach me:  Twitter...
 - ⚡ Fun fact: ...
--->
