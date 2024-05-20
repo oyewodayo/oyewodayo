@@ -7,4 +7,5 @@ As a seasoned full-stack developer with 14 years of extensive experience, I spec
 
 ## Skills
 - <strong>Language</strong> : PHP, JavaScript, Python, Rust, Java.
-- <strong>Tools</strong> : Laravel, fastAPI, Axum, Spring boot, Flutter, Terraform, Panda, Numpy, 
+- <strong>Database</strong> : MySql, Postgresql, SQLite, Firebase, Supabase,DynamoDB
+- <strong>Tools</strong> : Laravel, fastAPI, Axum, Spring boot, Flutter, Terraform, AWS, Docker Panda, Numpy, Tensorflow 
