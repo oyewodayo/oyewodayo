@@ -22,8 +22,8 @@ As a seasoned full-stack developer with 14 years of extensive experience, I spec
 </p>
 <p>
 Briefbrew is an email scheduling and contact management platform. It can handle millions of emails without lagging.
-- Technology and tools used: PHP, LARAVEL, AWS SES, AWS SNS
-- Project dynaminc: Complex.
+- **Technology and tools used:** PHP, LARAVEL, AWS SES, AWS SNS
+- **Project dynaminc:** Complex.
 </p>
 
 
