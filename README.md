@@ -45,7 +45,7 @@ Automated savings and on-demand loan processing using Laravel queues, scheduling
 | | |
 |---|---|
 | **Languages** | PHP · JavaScript · Python · Rust · C++ |
-| **Frameworks** | Laravel · React · Next.js · FastAPI · Axum |
+| **Frameworks** | Laravel · React · Next.js · FastAPI  · Flutter · Axum · Tauri · Bevy |
 | **Data** | MySQL · PostgreSQL · Redis · DynamoDB · SQLite |
 | **Infrastructure** | AWS · Docker · Nginx · Terraform · Linux |
 | **Scientific** | NumPy · SciPy · Matplotlib · Pandas · Geant4 · TensorFlow |
