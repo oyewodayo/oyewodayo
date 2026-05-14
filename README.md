@@ -12,7 +12,7 @@
 
 ---
 
-17 years building production systems. Currently running **BriefBrew**, a multi-channel newsletter and campaign SaaS, while pursuing an M.Sc. in theoretical physics at the University of Ibadan — researching spin-dependent exotic interactions and physics beyond the Standard Model.
+17 years building production systems. Currently running **Briefs**, a multi-channel newsletter and campaign SaaS, while pursuing an M.Sc. in theoretical physics at the University of Ibadan — researching spin-dependent exotic interactions and physics beyond the Standard Model.
 
 ---
 
@@ -30,7 +30,7 @@ Companion to the paper *"A Proposed Universal Naming Convention and Data Ontolog
 
 ### Software
 
-**[BriefBrew](https://withbriefs.com)** — multi-channel newsletter and campaign SaaS  
+**[Briefs](https://withbriefs.com)** — multi-channel newsletter and campaign SaaS  
 Email, WhatsApp, and AI-assisted content at scale. Laravel + Livewire, queue-based dispatch, Paystack billing, WhatsApp Business API, and a multi-provider AI gateway with streaming.  
 `Laravel` `Livewire` `MySQL` `Redis` `AWS SES` `WhatsApp API`
 
