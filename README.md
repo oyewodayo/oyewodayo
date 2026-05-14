@@ -1,34 +1,55 @@
-<p align="center"><a href="https://withbriefs/oyewodayo" target="_blank"><img src="https://avatars.githubusercontent.com/u/8675502?v=4" width="100" alt="Temidayo"></a></p>
-
-
-## About Me
-
-As a seasoned full-stack developer with 14 years of extensive experience, I specialize in creating robust business applications and seamless API integrations. My technical expertise spans across back-end, front-end, DevOps, cloud, and mobile development, making me a versatile and valuable asset to any team:
-
-## Skills
-- <strong>Language</strong> : PHP, JavaScript, Python, Rust, Java.
-- <strong>Database</strong> : MySql, Postgresql, SQLite, Firebase, Supabase,DynamoDB.
-- <strong>Tools</strong> : Laravel, fastAPI, Axum, SQLx, Spring boot, Flutter, ReactJs, NextJs, Wordpress, Webflow, Terraform, AWS, Docker Panda, Numpy, Tensorflow.
-
-## Projects
-1. **Briefs** : https://withbriefs.com
-
-<p>
-Briefs is an email scheduling and contact management platform. It can handle millions of emails without lagging.
-<div>Technology and tools used: PHP, LARAVEL, MYSQL, AWS SES, AWS SNS, Cloudflare</div>
-<div>Project dynamic: Complex. The project utilizes laravel Queue, Caching, Job, Job batch, Schedule, Websocket etc to achieve efficiency and performance. </div>
+<p align="center">
+  <a href="https://withbriefs.com" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/8675502?v=4" width="88" alt="Temidayo">
+  </a>
 </p>
 
-
-2. **Solomonhills** : https://solomonhills.com
-<p dir="auto">
-<a href="https://youtu.be/Wjj21p3tvcg?si=b7QYksN87h0wsGpQ" rel="nofollow"><img src="https://oyewodayo.vercel.app/assets/Solomonhills-app.png" width="300px" alt="5 things I wish I knew before studying Computer Science" title="5 things I wish I knew before studying Computer Science" data-canonical-src="https://ytcards.demolab.com/?id=Wjj21p3tvcg&amp;title=5+things+I+wish+I+knew+before+studying+Computer+Science&amp;lang=en&amp;timestamp=1636628400&amp;background_color=%230d1117&amp;title_color=%23ffffff&amp;stats_color=%23dedede&amp;max_title_lines=1&amp;width=250&amp;border_radius=5&amp;duration=436" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://youtu.be/Wjj21p3tvcg?si=b7QYksN87h0wsGpQ" rel="nofollow"><img src="https://oyewodayo.vercel.app/assets/Solomonhills.png" width="300px" alt="5 things I wish I knew before studying Computer Science" title="5 things I wish I knew before studying Computer Science" data-canonical-src="https://ytcards.demolab.com/?id=Wjj21p3tvcg&amp;title=5+things+I+wish+I+knew+before+studying+Computer+Science&amp;lang=en&amp;timestamp=1636628400&amp;background_color=%230d1117&amp;title_color=%23ffffff&amp;stats_color=%23dedede&amp;max_title_lines=1&amp;width=250&amp;border_radius=5&amp;duration=436" style="max-width: 100%;"></a>
-</p>
-<p>
-Solomonhills is a fintech application that automate savings for users, and also process loan on request for users.
-<div>Technology and tools used: PHP, LARAVEL, MYSQL, AWS SES, AWS SNS, Cloudflare</div>
-<div>Project dynamic: Complex. The project utilizes laravel Queue, Caching, Job, Job batch, Schedule etc to achieve efficiency and performance. </div>
+<p align="center">
+  <sub>OYEWO TEMIDAYO SOLOMON</sub><br>
+  <strong>Full-Stack Engineer &nbsp;·&nbsp; Physics Researcher</strong><br>
+  <sub>Lagos, Nigeria &nbsp;·&nbsp; <a href="https://withbriefs.com">withbriefs.com</a></sub>
 </p>
 
+---
 
+17 years building production systems. Currently running **BriefBrew**, a multi-channel newsletter and campaign SaaS, while pursuing an M.Sc. in theoretical physics at the University of Ibadan — researching spin-dependent exotic interactions and physics beyond the Standard Model.
+
+---
+
+### Research
+
+**spindep-framework** — automated matter–antimatter CPT asymmetry analysis  
+A Python pipeline for computing and comparing experimental constraints on spin-dependent exotic potentials (V1–V16 in the Dobrescu–Mocioiu classification). Loads normalised constraint datasets, computes asymmetry parameters λ and A via χ² sensitivity analysis, and outputs publication-ready figures and PDF reports.  
+`Python` `NumPy` `SciPy` `Matplotlib` `LaTeX`
+
+**[spindep-convention](https://github.com/oyewodayo/spindep-convention)** — universal naming convention for spin-dependent constraint datasets  
+Companion to the paper *"A Proposed Universal Naming Convention and Data Ontology for Spin-Dependent Exotic Interaction Constraint Datasets"* (University of Ibadan, 2026). Defines a minimal, machine-parseable standard so any tool can load any constraint file with zero custom parsing code.  
+`Data ontology` `Naming convention` `Open standard`
+
+---
+
+### Software
+
+**[BriefBrew](https://withbriefs.com)** — multi-channel newsletter and campaign SaaS  
+Email, WhatsApp, and AI-assisted content at scale. Laravel + Livewire, queue-based dispatch, Paystack billing, WhatsApp Business API, and a multi-provider AI gateway with streaming.  
+`Laravel` `Livewire` `MySQL` `Redis` `AWS SES` `WhatsApp API`
+
+**[Solomonhills](https://solomonhills.com)** — fintech savings and loan platform  
+Automated savings and on-demand loan processing using Laravel queues, scheduling, and job batching.  
+`Laravel` `MySQL` `AWS SES/SNS` `Cloudflare`
+
+---
+
+### Stack
+
+| | |
+|---|---|
+| **Languages** | PHP · JavaScript · Python · Rust |
+| **Frameworks** | Laravel · React · Next.js · FastAPI · Axum |
+| **Data** | MySQL · PostgreSQL · Redis · DynamoDB · SQLite |
+| **Infrastructure** | AWS · Docker · Nginx · Terraform · Supervisor · Cloudflare |
+| **Scientific** | NumPy · SciPy · Matplotlib · Pandas · TensorFlow |
+
+---
+
+<sub>iBeep Networks · University of Ibadan · M.Sc. Theoretical Physics</sub>
