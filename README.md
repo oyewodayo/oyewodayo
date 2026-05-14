@@ -18,7 +18,7 @@
 
 ### Research
 
-**spindep-framework** — automated matter–antimatter CPT asymmetry analysis  
+**[spindep-framework](https://github.com/oyewodayo/spindep_framework)** — automated matter–antimatter CPT asymmetry analysis  
 A Python pipeline for computing and comparing experimental constraints on spin-dependent exotic potentials (V1–V16 in the Dobrescu–Mocioiu classification). Loads normalised constraint datasets, computes asymmetry parameters λ and A via χ² sensitivity analysis, and outputs publication-ready figures and PDF reports.  
 `Python` `NumPy` `SciPy` `Matplotlib` `LaTeX`
 
