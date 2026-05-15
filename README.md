@@ -31,7 +31,7 @@ Companion to the paper *"A Proposed Universal Naming Convention and Data Ontolog
 ### Software
 
 **[Briefs](https://withbriefs.com)** — multi-channel newsletter and campaign SaaS  
-Email, WhatsApp, and AI-assisted content at scale. Laravel + Livewire, queue-based dispatch, Paystack billing, WhatsApp Business API, and a multi-provider AI gateway with streaming.  
+Email, WhatsApp, and AI-assisted content at scale. Laravel + Livewire, queue-based dispatch, Paystack, Polar.sh and Stripe billing, WhatsApp Business API, and a multi-provider AI gateway with streaming.  
 `Laravel` `Livewire` `MySQL` `Redis` `AWS SES` `WhatsApp API`
 
 **[Solomonhills](https://solomonhills.com)** — fintech savings and loan platform  
