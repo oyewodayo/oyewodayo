@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/8675502?v=4" width="88" alt="Temidayo">
 </p>
-
 <p align="center">
   <sub>TEMIDAYO OYEWO</sub><br>
   <strong>Theoretical & Computational Physics Researcher</strong><br>
@@ -10,9 +9,9 @@
 
 ---
 
-Computational physicist and software engineer working at the intersection of **Quantum computing and simulations, particle physics, scientific computing, and beyond-Standard-Model phenomenology**.
+Computational physicist and software engineer specializing in **quantum computing and simulation** and **beyond-Standard-Model (BSM) phenomenology**, with a broader focus on particle physics and scientific computing.
 
-Currently pursuing an **M.Sc. in Theoretical Physics** at the University of Ibadan, where my research focuses on exotic spin-dependent interactions, ultralight boson searches, CPT symmetry tests, and matter–antimatter sector comparisons.
+Currently pursuing an **M.Sc. in Theoretical Physics** at the University of Ibadan, where my research probes physics beyond the Standard Model — exotic spin-dependent interactions, ultralight boson searches, CPT symmetry tests, and matter–antimatter sector comparisons — increasingly through quantum-computational methods.
 
 Summer 2026 participant in the **CERN Summer Student Programme (CMS Collaboration)**, contributing to scientific computing and quantum-computing-related projects.
 
@@ -53,14 +52,14 @@ Designed to enable:
 
 ## Scientific Interests
 
-* Theoretical Particle Physics
+* Quantum Computing for Physics Applications
 * Beyond Standard Model Physics
+* Theoretical Particle Physics
 * Particle Phenomenology
 * Precision Tests of Fundamental Symmetries
 * Exotic Spin-Dependent Interactions
 * Scientific Computing
 * High-Performance Computing
-* Quantum Computing for Physics Applications
 
 ---
 
@@ -71,6 +70,14 @@ Designed to enable:
 Multi-channel communication and newsletter platform supporting email, WhatsApp, and AI-assisted content generation.
 
 **Tech:** Laravel · Livewire · MySQL · Redis · AWS SES · WhatsApp Business API
+
+---
+
+### [Briefcast](https://github.com/oyewodayo/screencast)
+
+Windows desktop app for screen recording, media playback, and media format conversion, with a floating recording overlay, webcam overlays, and batch conversion to MP4/MOV/MKV/AVI/WebM.
+
+**Tech:** Tauri · Rust · React · TypeScript · FFmpeg
 
 ---
 
