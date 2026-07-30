@@ -53,6 +53,8 @@ Designed to enable:
 ## Scientific Interests
 
 * Quantum Computing for Physics Applications
+* Quantum simulation of lattice gauge theories
+* Quantum algorithms for many-body and field theory problems (VQE, Trotterization, tensor networks)
 * Beyond Standard Model Physics
 * Theoretical Particle Physics
 * Particle Phenomenology
