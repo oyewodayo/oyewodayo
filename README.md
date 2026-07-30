@@ -10,7 +10,7 @@
 
 ---
 
-Computational physicist and software engineer working at the intersection of **particle physics, scientific computing, and beyond-Standard-Model phenomenology**.
+Computational physicist and software engineer working at the intersection of **Quantum computing and simulations, particle physics, scientific computing, and beyond-Standard-Model phenomenology**.
 
 Currently pursuing an **M.Sc. in Theoretical Physics** at the University of Ibadan, where my research focuses on exotic spin-dependent interactions, ultralight boson searches, CPT symmetry tests, and matter–antimatter sector comparisons.
 
