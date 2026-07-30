@@ -77,7 +77,8 @@ Multi-channel communication and newsletter platform supporting email, WhatsApp, 
 
 ### [Briefcast](https://github.com/oyewodayo/screencast)
 
-Windows desktop app for screen recording, media playback, and media format conversion, with a floating recording overlay, webcam overlays, and batch conversion to MP4/MOV/MKV/AVI/WebM.
+Windows desktop app for screen recording, media playback, PDF viewing and markup, media format conversion, and file organization — all in one window.
+
 
 **Tech:** Tauri · Rust · React · TypeScript · FFmpeg
 
