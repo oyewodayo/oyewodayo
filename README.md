@@ -98,7 +98,7 @@ Savings, investment, and loan-management platform with automated workflows and f
 | Category             | Technologies                                 |
 | -------------------- | -------------------------------------------- |
 | Languages            | Python · C++ · Rust · PHP · JavaScript       |
-| Scientific Computing | NumPy · SciPy · Pandas · Matplotlib · Geant4 |
+| Scientific Computing | NumPy · SciPy · Pandas · Matplotlib · Geant4, Pasqal, Qiskit |
 | Machine Learning     | TensorFlow · PyTorch                         |
 | Backend              | FastAPI · Laravel · Axum                     |
 | Frontend             | React · Next.js · Flutter                    |
