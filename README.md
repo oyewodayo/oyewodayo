@@ -19,7 +19,7 @@ Summer 2026 participant in the **CERN Summer Student Programme (CMS Collaboratio
 
 ## Research Projects
 
-### [SPINDEP Framework](https://github.com/oyewodayo/spindep_framework)
+### [SPINDEP Framework](https://github.com/oyewodayo/spindep-framework)
 
 Automated analysis framework for spin-dependent exotic interactions and matter–antimatter asymmetry studies.
 
