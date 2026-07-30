@@ -67,14 +67,6 @@ Designed to enable:
 
 ## Software Projects
 
-### [Briefs](https://withbriefs.com)
-
-Multi-channel communication and newsletter platform supporting email, WhatsApp, and AI-assisted content generation.
-
-**Tech:** Laravel · Livewire · MySQL · Redis · AWS SES · WhatsApp Business API
-
----
-
 ### [Briefcast](https://github.com/oyewodayo/screencast)
 
 Windows desktop app for screen recording, media playback, PDF viewing and markup, media format conversion, and file organization — all in one window.
@@ -83,6 +75,15 @@ Windows desktop app for screen recording, media playback, PDF viewing and markup
 **Tech:** Tauri · Rust · React · TypeScript · FFmpeg
 
 ---
+
+### [Briefs](https://withbriefs.com)
+
+Multi-channel communication and newsletter platform supporting email, WhatsApp, and AI-assisted content generation.
+
+**Tech:** Laravel · Livewire · MySQL · Redis · AWS SES · WhatsApp Business API
+
+---
+
 
 ### [Solomonhills](https://solomonhills.com)
 
